@@ -1,0 +1,6 @@
+# Genererade videofiler
+*.mp4
+*.webm
+__pycache__/
+.DS_Store
+Thumbs.db
